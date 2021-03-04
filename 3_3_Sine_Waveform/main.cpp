@@ -12,6 +12,7 @@ const double offset = 65535 / 2;
 
 // Adjust analog output pin name to your board spec.
 
+//aaa
 AnalogOut aout(PA_4);
 
 
